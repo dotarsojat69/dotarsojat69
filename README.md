@@ -19,7 +19,7 @@ In light of my educational background and technological experiences, I have vent
 <image src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white" alt="React Hook Form">
 <image src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" alt="Vercel">
 <image src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" alt="Netlify">
-<image src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma">
+<image src="https://img.shields.io/badge/figma-%23F24E1F.svg?style=flat&logo=figma&logoColor=white" alt="Figma">
 <image src="https://img.shields.io/badge/corel%20draw-%24FB9A11.svg?style=flat&logo=corel%20draw&logoColor=white" alt="Corel Draw">
 </div>
 
