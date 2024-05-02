@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi👋, I'm Franco Freso Dixo
+
+## Social
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-freso-dixo-36723424b/) 
 
 <!--
 **dotarsojat69/dotarsojat69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
