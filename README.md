@@ -2,7 +2,7 @@
 In light of my educational background and technological experiences, I have ventured into the realm of development with my inaugural project Inbuscap.Id. As I embark on this journey, I am eager to document my experiences and skills gained, believing they will serve as a valuable asset in my pursuit of a career as a Front End Developer. Presently, I am actively seeking opportunities where I can apply and further develop the knowledge I have acquired.
 
 ## Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-freso-dixo-36723424b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-freso-dixo/)
 
 ## Tech Stacks
 <div align="center">
